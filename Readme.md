@@ -30,12 +30,15 @@ This project is a responsive landing page built using **HTML** and **Tailwind CS
 - Accessibility considerations
 
 
+## Live Demo
+
+Check out the live demo of the landing page [here](https://htmltailwindcsslandingpage.netlify.app/). Experience the responsive design and features in action.
 
 ## Getting Started
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/PreedhiMahendran/2.-HTMLTailwind-Css-Landing-Page-Task
     ```
 2. **Navigate to the project folder:**
     ```bash
@@ -55,7 +58,8 @@ This project is a responsive landing page built using **HTML** and **Tailwind CS
 
 ```
 ├── assets/
-│   └── screenshot.png
+│   └──images/
+│       ├── logo.png
 ├── index.html
 ├── styles/
 │   └── tailwind.css
